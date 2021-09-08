@@ -11,4 +11,4 @@ Para acessar o projeto, bastar entrar em https://j-quirino.github.io/flexblog/
 
 # Autor
 - Jean Quirino
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> https://www.linkedin.com/in/jean-quirino/
+- <a href="https://www.linkedin.com/in/jean-quirino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
